@@ -13,5 +13,7 @@ latar hijau.
 
 
 ### Hasil
-![](images/hasil.png)
+
+![ss](https://github.com/Fsurur/jobsheet5/assets/120541461/8880fc39-19a8-4b56-8bc1-558445d89763)
+
 # jobsheet5
